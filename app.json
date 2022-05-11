@@ -26,6 +26,15 @@
         "description": "Enter Your Telegram id",
         "value": ""
       },
+      "OWNER_IDDOS": {
+        "description": "Enter Your Telegram DOS",
+        "value": ""
+      },  
+            "OWNER_IDTRES": {
+        "description": "Enter Your Telegram TRES",
+        "value": ""
+      },  
+        
       "INSTAGRAM_USERNAME": {
         "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
         "value": ""
